@@ -16,6 +16,13 @@ In order to remove these null values, I decided to use Iterative imputed appraoc
    ## Centuries and Half-Centuries
       The number of centuries (100 runs or more in an innings) and half-centuries (50 runs or more in an innings) indicates a player's ability to score big and consistently contribute to the team's total.   
   # Bowling Parameters
-   ##  
+   ## Bowling Average (Average Runs per Wicket)
+      The bowling average measures a bowler's effectiveness in taking wickets. It is calculated as the total runs conceded divided by the number of wickets taken.
+   ## Economy Rate (Runs Conceded per Over)
+      Economy rate indicates a bowler's ability to control the flow of runs. It is calculated as (Total Runs Conceded / Total Overs Bowled).
+   ## Wickets Taken
+      Count the number of wickets taken by a bowler. This is a crucial measure of a bowler's contribution to the team's success.
+   ## Maiden Overs
+      A maiden over is an over in which no runs are scored. Bowlers who can consistently bowl maiden overs can build pressure on the batting side.
          
       
