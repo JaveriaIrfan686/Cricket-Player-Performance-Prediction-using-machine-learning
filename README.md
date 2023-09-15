@@ -24,5 +24,13 @@ In order to remove these null values, I decided to use Iterative imputed appraoc
       Count the number of wickets taken by a bowler. This is a crucial measure of a bowler's contribution to the team's success.
    ## Maiden Overs
       A maiden over is an over in which no runs are scored. Bowlers who can consistently bowl maiden overs can build pressure on the batting side.
-         
+
+   Moreover, after calculating batting and bowling average at different parameters, I find the Overall performance of Player. 
+   Than I find the skewness of data. It is one of the most important step as many machine learning models assume that the data is normally distributed or at least roughly symmetric. Skewed data can violate these assumptions, leading to inaccurate model predictions. And Transform it to make data symmetric by using Power Transform method. 
+
+  # Models
+   I have used 3 models:
+   ## Linear Regression
+   ## Decision Tree
+   ## Random Forest  
       
